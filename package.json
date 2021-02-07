@@ -1,0 +1,11 @@
+{
+  "name": "currency-convertor",
+  "version": "1.0.0",
+  "description": "A coding exercise for Equal Experts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andrew McGregor <andy@txm.net>",
+  "license": "UNLICENSED"
+}
